@@ -3,3 +3,4 @@ Ruby, JavaScript, HTML & CSS, iOS or Electives. Todo para me.
 * Git 
 * JavaScript 
 * Ruby
+* Killing history using git rebase
